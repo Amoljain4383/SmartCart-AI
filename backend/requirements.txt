@@ -10,3 +10,4 @@ python-dotenv
 httpx
 openai
 python-multipart
+psycopg2-binary
